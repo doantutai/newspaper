@@ -1,0 +1,7 @@
+{
+  "name": "doantutai/newspaper",
+  "type": "wordpress-theme",
+  "require": {
+    "composer/installers": "6.6.1"
+  }
+}
